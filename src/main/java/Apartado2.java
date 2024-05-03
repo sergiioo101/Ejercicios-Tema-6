@@ -3,7 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Random;
 
-class Main {
+class Aparatado2 {
     public static void main(String[] args) {
         List<Double> arrayList = new ArrayList<>();
         List<Double> linkedList = new LinkedList<>();
